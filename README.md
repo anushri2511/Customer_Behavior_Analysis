@@ -94,22 +94,8 @@ This project addresses these challenges using data-driven analysis.
 ---
 
 
----
+<img width="1225" height="726" alt="DashBoard" src="https://github.com/user-attachments/assets/d5939470-dd5c-403a-992b-f28f3beb8a6f" />
 
-## 📂 Project Structure
-
-```
-Customer-Behavior-Analysis/
-│
-├── Customer_behavior_Dashboard.pbix
-├── customer_behavior_sql_queries.sql
-├── Customer_Shopping_Behavior_Analysis.ipynb
-├── README.md
-├── data/
-│   └── dataset.csv
-├── images/
-│   └── dashboard.png
-```
 
 ---
 
